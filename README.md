@@ -3,7 +3,7 @@
 
 - 😁 Me chamo Eduardo Ferreira Aquino.
 - 🔭 Atualmente trabalhando como full stack Java.
-- 🌱 Estudando <s>Java</s> Ciência de dados e seus derivados.
+- 🌱 Estudando Java e seus derivados.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-java" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png">
