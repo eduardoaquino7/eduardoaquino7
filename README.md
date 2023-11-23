@@ -15,9 +15,7 @@
 </div>
 
 <div align="center" style="display: inline_block" vspace="50">
-  
-  <img align="center" alt="Edu-emote" height="200" style="border-radius:50px;" src="https://www.imagemhost.com.br/images/2023/03/15/AREmoji_20230315_135153_2117.gif">
-  
+    
   <a href="https://www.linkedin.com/in/eduardoferreira7/" target="_blank">
     <img align="center" alt="Edu-linkedin" height="50" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg">
   </a>
